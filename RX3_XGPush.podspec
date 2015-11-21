@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name     = "RX3_XGPush"
-  s.version  = "2.4.5.7"
+  s.version  = "2.4.5.9"
   s.license  = "MIT"
   s.summary  = "RX3_XGPush is a xgpush sdk"
   s.homepage = "https://github.com/xzjxylophone/RX3_XGPush"
