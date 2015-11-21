@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
   }
   s.source_files = 'RX3_XGPush/sdk/*.{h,m,a,txt}'
   s.frameworks = 'Foundation', 'UIKit', 'CFNetwork', 'SystemConfiguration', 'CoreTelephony', 'Security'
+  s.library = 'libXG-SDK'
   s.requires_arc = true
   s.platform = :ios, '6.0'
 
